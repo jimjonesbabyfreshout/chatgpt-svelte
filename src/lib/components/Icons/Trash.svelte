@@ -16,5 +16,4 @@ xmlns="http://www.w3.org/2000/svg"
   y1="11"
   x2="14"
   y2="17"
-/></svg
->
+/></svg>
